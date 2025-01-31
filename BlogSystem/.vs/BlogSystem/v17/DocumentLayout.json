@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net\\BlogSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\migrations\\202501311253549_updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\migrations\\202501311253549_updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\migrations\\202501311242524_initialpostdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\migrations\\202501311242524_initialpostdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|d:\\dot net\\blogsystem\\blogsystem\\models\\postdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481E1B5D-92AC-4DC7-9449-2C9B9C93C248}|BlogSystem\\BlogSystem.csproj|solutionrelative:blogsystem\\models\\postdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T13:07:25.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogSystem\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T13:07:17.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "202501311253549_UpdateModel.cs",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Migrations\\202501311253549_UpdateModel.cs",
+              "RelativeDocumentMoniker": "BlogSystem\\Migrations\\202501311253549_UpdateModel.cs",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Migrations\\202501311253549_UpdateModel.cs",
+              "RelativeToolTip": "BlogSystem\\Migrations\\202501311253549_UpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:54:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "BlogSystem\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "BlogSystem\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:44:46.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202501311242524_InitialPostDb.cs",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Migrations\\202501311242524_InitialPostDb.cs",
+              "RelativeDocumentMoniker": "BlogSystem\\Migrations\\202501311242524_InitialPostDb.cs",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Migrations\\202501311242524_InitialPostDb.cs",
+              "RelativeToolTip": "BlogSystem\\Migrations\\202501311242524_InitialPostDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:43:08.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "BlogSystem\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "BlogSystem\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:42:22.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\packages.config",
+              "RelativeDocumentMoniker": "BlogSystem\\packages.config",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\packages.config",
+              "RelativeToolTip": "BlogSystem\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-31T12:41:08.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\Post\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BlogSystem\\Views\\Post\\Delete.cshtml",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\Post\\Delete.cshtml",
+              "RelativeToolTip": "BlogSystem\\Views\\Post\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T12:39:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogSystem\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "BlogSystem\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAC0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T12:38:47.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\Post\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogSystem\\Views\\Post\\Create.cshtml",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\Post\\Create.cshtml",
+              "RelativeToolTip": "BlogSystem\\Views\\Post\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T12:38:28.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogSystem\\Views\\Post\\Index.cshtml",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "BlogSystem\\Views\\Post\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T12:37:41.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "BlogSystem\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Controllers\\PostController.cs",
+              "RelativeToolTip": "BlogSystem\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:30:41.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Web.config",
+              "RelativeDocumentMoniker": "BlogSystem\\Web.config",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Web.config",
+              "RelativeToolTip": "BlogSystem\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-31T12:26:55.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostDbContext.cs",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Models\\PostDbContext.cs",
+              "RelativeDocumentMoniker": "BlogSystem\\Models\\PostDbContext.cs",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Models\\PostDbContext.cs",
+              "RelativeToolTip": "BlogSystem\\Models\\PostDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:25:55.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "BlogSystem\\Models\\Post.cs",
+              "ToolTip": "D:\\Dot Net\\BlogSystem\\BlogSystem\\Models\\Post.cs",
+              "RelativeToolTip": "BlogSystem\\Models\\Post.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:24:13.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

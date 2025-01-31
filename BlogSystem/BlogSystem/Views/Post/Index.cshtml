@@ -1,0 +1,52 @@
+﻿<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+
+<script src="~/Scripts/jquery-3.5.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+@model IEnumerable<BlogSystem.Models.Post>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Blog Posts</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table id="postsTable" class="display table table-bordered" style="width:100%">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Title)</th>
+            <th>@Html.DisplayNameFor(model => model.Content)</th>
+            <th>@Html.DisplayNameFor(model => model.PublishedDate)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                <td>@item.Content.Substring(0, Math.Min(50, item.Content.Length))...</td> <!-- Show Content Snippet -->
+                <td>@item.PublishedDate.ToString("yyyy-MM-dd")</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.PostId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.PostId }, new { onclick = "return confirm('Are you sure?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- DataTables Initialization Script -->
+<script>
+    $(document).ready(function () {
+        $('#postsTable').DataTable({
+            "paging": true,
+            "searching": true,
+            "ordering": true,
+            "info": true
+        });
+    });
+</script>
